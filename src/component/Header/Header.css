@@ -1,0 +1,27 @@
+.Header {
+  text-align: center;
+}
+.header-text {
+  color: brown;
+}
+
+.navBar {
+  background-color: rgb(250, 96, 96);
+  line-height: 30px;
+  margin-left: 30%;
+  margin-right: 30%;
+  border-radius: 10px;
+}
+
+.navBar a {
+  text-decoration: none;
+  color: white;
+  margin-right: 20px;
+  font-weight: 700;
+  font-size: large;
+  padding: 10px;
+}
+.navBar a:hover {
+  background-color: white;
+  color: black;
+}

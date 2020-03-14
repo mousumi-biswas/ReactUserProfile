@@ -1,0 +1,19 @@
+.right-side{
+    display: flex;
+    width: 320px;
+    box-shadow: 5px 5px 5px lightgray;
+    margin-top: 30px;
+    border-radius: 10px;
+}
+
+.image img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    padding-top: 20px;
+}
+
+.name{
+    margin-left: 20px;
+    text-align: left;
+}

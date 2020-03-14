@@ -1,0 +1,8 @@
+.head{
+    display: flex;
+}
+
+.left-bar{
+    width: 70%;
+    margin: 10px;
+}
